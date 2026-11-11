@@ -1,0 +1,11 @@
+*.apk
+*.exe
+*.zip
+.env*
+*.key
+*.pem
+*.jks
+*.keystore
+*.pfx
+*.db
+*.sqlite*
